@@ -8,7 +8,7 @@
 
 ## 🚀 Projects
 
-## [Banking Application](https://github.com/srinivas-odeti/JavaProjects/tree/master/Banking_Application02)
+### [Banking Application](https://github.com/srinivas-odeti/JavaProjects/tree/master/Banking_Application02)
 This banking application is a robust and user-friendly platform designed to manage essential banking operations efficiently. 
 Utilized technolgies: Java, HTML, CSS, JavaScript, Oracle.
 
