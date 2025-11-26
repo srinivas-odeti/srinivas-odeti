@@ -1,13 +1,14 @@
-👋 Hi, I'm Srinivas Odeti
+# 👋 Hi, I'm Srinivas Odeti
 
-## 💡 About Me
+## 💡 About Me 
 - 🎓 M.Sc in Computer Science
 - 🧠 Passionate about building efficient software & web apps  
 - 🛠 Skilled in Java, Oracle, HTML/CSS, JavaScript
 
 
-🚀 Projects
+## 🚀 Projects
 
+[Banking Application]()
 This banking application is a robust and user-friendly platform designed to manage essential banking operations efficiently. 
 Utilized technolgies: Java, HTML, CSS, JavaScript, Oracle.
 
